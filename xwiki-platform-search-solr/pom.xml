@@ -13,7 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <platform.core.version>3.5-SNAPSHOT</platform.core.version>
-    <solr.version>3.5.0</solr.version>
+    <solr.version>8.8.2</solr.version>
   </properties>
   <dependencies>
     <dependency>
